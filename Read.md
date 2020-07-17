@@ -78,4 +78,4 @@ There are six steps to get Instagram Feed Access Token
 
 ## Step 6
 
-From the **Admin Panel**, go to `` Store > Settings > Configuration > MAGEPLAZA EXTENSIONS > Instagram Feed ``. Paste the token that you have just copied to **User Token**.
+From the **Admin Panel**, go to `` Store > Settings > Configuration > Bootsgrid > Instagram Feed ``. Paste the token that you have just copied to **User Token**.
